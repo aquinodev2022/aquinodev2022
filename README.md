@@ -19,16 +19,16 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pelo Porto digital. Esto
 ➮ Aprimorando habilidades com CSS <br>
 ➮ Aprimorando habilidades com JavaScript
 
-<h2>Linguagens</h2>
+<h2>Linguagens Front-end</h2>
 
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d6533346332363f266c6f676f3d68746d6c35266c6f676f436f6c6f723d666666666666267374796c653d666c61742d737175617265266c6f676f57696474683d3330](https://github.com/aquinodev2022/aquinodev2022/assets/113396919/8e08a498-a95f-4adf-b187-2a560f28a2fa)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3239363566313f266c6f676f3d63737333266c6f676f436f6c6f723d666666666666267374796c653d666c61742d737175617265266c6f676f57696474683d3330](https://github.com/aquinodev2022/aquinodev2022/assets/113396919/c7131871-9c87-4612-8f92-c7d87b31518f)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a4156415343524950542d3332333333303f266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d663064623466267374796c653d666c61742d737175617265266c6f676f57696474683d3330](https://github.com/aquinodev2022/aquinodev2022/assets/113396919/e6d15d83-20b1-4445-9137-60eaae62930b)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript)](https://skillicons.dev)
+
+<h2>Linguagens Back-end e entre outras</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,c)](https://skillicons.dev)
 
 <h2>Ferramentas</h2>
 
-![image](https://github.com/aquinodev2022/aquinodev2022/assets/113396919/e891d6ae-6afe-4eba-8662-863e9e2fbacb)
-![image](https://github.com/aquinodev2022/aquinodev2022/assets/113396919/385275aa-5f3c-4dcb-a239-4968feeeafe2)
-![image](https://github.com/aquinodev2022/aquinodev2022/assets/113396919/25b1841b-1a02-48d8-a7f4-6ffd7a857dc0)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,idea,windows)](https://skillicons.dev)
 
 
