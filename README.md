@@ -6,6 +6,8 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas pelo Porto digital. Estou sempre em busca de novos desafios e oportunidades para aprender e aprimorar minhas habilidades nesse mundo Tecnológico.
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3500&pause=15000&vCenter=true&multiline=true&random=false&width=1200&height=90&lines=An%C3%A1lise+e+Desenvolvimento+de+Sistemas+|+FICR+|+3/5;" />
+
 <b>Minhas principais características:</b>
 
 ➮ Eu sou um autodidata em constante busca por conhecimento da atualidade.<br>
@@ -31,4 +33,14 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pelo Porto digital. Esto
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,idea,windows)](https://skillicons.dev)
 
+<h2>Estatísticas:</h2>
+
+  
+  ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aquinodev2022&theme=github_dark)
+
+<div> 
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquinodev2022&layout=compact&langs_count=7&theme=github_dark&hide_border=true" />
+</div>
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aquinodev2022&theme=github_dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
