@@ -19,19 +19,20 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pelo Porto digital. Esto
 <b>Aprendendo atualmente</b>
 
 ➮ Aprimorando habilidades com CSS <br>
-➮ Aprimorando habilidades com JavaScript
+➮ Aprimorando habilidades com JavaScript <br>
+➮ Conhecendo novas tecnologias de desenvolvimento web
 
 <h2>Linguagens Front-end</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,angular,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,angular,vue,vuetify)](https://skillicons.dev)
 
 <h2>Linguagens Back-end e entre outras</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,npm,c,php)](https://skillicons.dev)
 
-<h2>Ferramentas</h2>
+<h2>Ferramentas e IDE</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,idea,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,replit,git,idea,webstorm,phpstorm,vercel,windows)](https://skillicons.dev)
 
 <h2>Estatísticas:</h2>
 
