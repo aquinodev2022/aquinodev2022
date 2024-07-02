@@ -24,7 +24,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pelo Porto digital. Esto
 
 <h2>Linguagens Front-end</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,angular,vue,vuetify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,angular,vue,vuetify,bootstrap)](https://skillicons.dev)
 
 <h2>Linguagens Back-end e entre outras</h2>
 
