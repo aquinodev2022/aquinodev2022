@@ -6,7 +6,7 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas pelo Porto digital. Estou sempre em busca de novos desafios e oportunidades para aprender e aprimorar minhas habilidades nesse mundo Tecnológico.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3500&pause=15000&vCenter=true&multiline=true&random=false&width=1200&height=90&lines=An%C3%A1lise+e+Desenvolvimento+de+Sistemas+|+FICR+|+3/5;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3500&pause=15000&vCenter=true&multiline=true&random=false&width=1200&height=90&lines=An%C3%A1lise+e+Desenvolvimento+de+Sistemas+|+FICR+|+4/5;" />
 
 <b>Minhas principais características:</b>
 
