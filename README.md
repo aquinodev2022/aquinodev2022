@@ -22,6 +22,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pelo Porto digital. Esto
 ➮ Aprimorando habilidades com JavaScript <br>
 ➮ Conhecendo novas tecnologias de desenvolvimento web
 
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhackernoon.com%2Fimages%2Ff2px36fy.gif&f=1&nofb=1&ipt=7d3530b34284391cf4ed4f078b5de7bc542494837dd5706cd1c2e6f90b41f10c&ipo=images" width="1000px" />
+
 <h2>Linguagens Front-end</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,angular,vue,vuetify,bootstrap)](https://skillicons.dev)
