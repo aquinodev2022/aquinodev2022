@@ -34,7 +34,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pelo Porto digital. Esto
 
 <h2>Ferramentas e IDE</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,replit,git,idea,webstorm,phpstorm,vercel,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,replit,git,github,idea,webstorm,phpstorm,vercel,windows)](https://skillicons.dev)
 
 <h2>Estatísticas:</h2>
 
