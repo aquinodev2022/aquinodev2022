@@ -6,21 +6,26 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas pelo Porto digital. Estou sempre em busca de novos desafios e oportunidades para aprender e aprimorar minhas habilidades nesse mundo Tecnológico.
 
+---
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3500&pause=15000&vCenter=true&multiline=true&random=false&width=1200&height=90&lines=An%C3%A1lise+e+Desenvolvimento+de+Sistemas+|+FICR+|+4/5;" />
 
-<b>Minhas principais características:</b>
+## 🔍 Sobre mim ##
 
-➮ Eu sou um autodidata em constante busca por conhecimento da atualidade.<br>
-➮ Me considero um programador persistente, sempre buscando soluções mesmo diante dos desafios mais complexos.<br>
-➮ Gosto de trabalhar em equipe, onde a colaboração e o empenho transformam desafios em oportunidades e promovem um ambiente de amplo crescimento mútuo.<br>
-➮ Sou um programador que abraça o aprendizado contínuo, pronto para explorar e dominar novas linguagens, ferramentas e técnicas.<br>
-➮ Estou atualmente focado em ser desenvolvedor front-end.
+* 📚 Autodidata em constante busca por conhecimento atualizado.
+* 💡 Persistente, sempre buscando soluções mesmo diante dos desafios mais complexos.
+* 👥 Trabalho em equipe, onde a colaboração transforma desafios em oportunidades.
+* 📈 Aprendizado contínuo, pronto para explorar e dominar novas linguagens, ferramentas e técnicas.
+* 🎯 Focado em ser desenvolvedor front-end e futuramente almejo ser programador mobile.
 
-<b>Aprendendo atualmente</b>
+---
 
-➮ Aprimorando habilidades com CSS <br>
-➮ Aprimorando habilidades com JavaScript <br>
-➮ Conhecendo novas tecnologias de desenvolvimento web
+## 📖 Aprendendo atualmente ##
+* 🎨 Aprimorando habilidades com CSS
+* 💻 Aprimorando habilidades com JavaScript
+* 🌐 Conhecendo novas tecnologias de desenvolvimento web
+
+---
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhackernoon.com%2Fimages%2Ff2px36fy.gif&f=1&nofb=1&ipt=7d3530b34284391cf4ed4f078b5de7bc542494837dd5706cd1c2e6f90b41f10c&ipo=images" width="1000px" />
 
